@@ -10,6 +10,8 @@ Warranty:
 This game comes as is, there is no warranty of any kind and the downloader is responsible of anything that happens to this program. 
 The downloader will not manipulate nor change anything within the code that may be used maliciously. 
 
+No data is collected and sent to me or third parties. This is a school project intended for educational purposes
+
 Thanks to:
 Lizbeth Mascorro - idea planner
 Bing AI - creator of the game's name
