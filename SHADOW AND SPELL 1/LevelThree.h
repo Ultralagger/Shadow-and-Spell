@@ -71,8 +71,8 @@ int LevelThree(int damage, int plyrHlth) // this UDF serves to keep all the code
             }                                                  // closes statement
             else // otherwise, execute
             {    // opens statement
-               cout << "Player heals with 25 health points!" << endl; // prints player
-               plyrHlth += 25;                                        // restores 25 health points
+               cout << "Player heals with 35 health points!" << endl; // prints player
+               plyrHlth += 35;                                        // restores 25 health points
                hlthPotion--;                                          // removes a health potion from inventory
                goto repeat;                                           // this consumes the player's turn and return to the enemy's turn
             }   // closes statement
